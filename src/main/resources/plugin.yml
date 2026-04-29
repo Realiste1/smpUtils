@@ -1,0 +1,9 @@
+name: SmpUtils
+description: $description
+version: '${version}'
+
+main: com.Realiste.smpUtils.SmpUtils
+api-version: '26.1.2'
+load: STARTUP
+
+authors: [ Realiste ]
